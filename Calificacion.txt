@@ -1,0 +1,11 @@
+
+-----------------Errores---------------------
+1. Cuando mandas la lista a graficar la pasas por valor, esto genera una copia de la misma
+
+----------------Comentarios-----------------
+
+
+Presentacion    50/50
+Recorrido	40/50
+Total 		90   
+ 
