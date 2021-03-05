@@ -1,0 +1,20 @@
+digraph grafico{
+compound=true;
+subgraph cluster0{
+color=orangered
+edge[color="greenyellow",minlen=0.1, dir=both]
+edge[minlen=0.1, dir=both]
+struct0[shape=record,color=".7 .3 1.0"label="{Marvin|Martinez|Marvin25ronal|Jugar apex}"];
+struct1[shape=record,color=".7 .3 1.0"label="{Yaiza|Pineda|Bambi|Patinar}"];
+struct2[shape=record,color=".7 .3 1.0"label="{Jonathan|Lopez|Pancho|Comer}"];
+struct3[shape=record,color=".7 .3 1.0"label="{usuario1|bla|bla|Jugar apex}"];
+struct4[shape=record,color=".7 .3 1.0"label="{usuario2|bla|bla|Jugar apex}"];
+struct5[shape=record,color=".7 .3 1.0"label="{usuario3|sale edd|vamos con todo|100 en la fase 1}"];
+struct0->struct1
+struct1->struct2
+struct2->struct3
+struct3->struct4
+struct4->struct5
+struct5->struct6
+}
+}
